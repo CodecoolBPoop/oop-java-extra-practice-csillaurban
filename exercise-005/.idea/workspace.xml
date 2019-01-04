@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84ff3c5d-61ee-4806-95a1-5809f6f7cdae" name="Default Changelist" comment="" />
+    <list default="true" id="b14046cc-13bc-4879-86e2-b1166f19b94d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/java/DataObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/java/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-004/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise-004/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,22 +17,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise-004.md">
+        <entry file="file://$PROJECT_DIR$/exercise-005.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercises/java/Exercise4.java">
+        <entry file="file://$PROJECT_DIR$/src/exercises/java/Exercise5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -57,8 +60,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/exercises/java/DataObject.java" />
-        <option value="$PROJECT_DIR$/src/exercises/java/Exercise3.java" />
-        <option value="$PROJECT_DIR$/src/exercises/java/Exercise4.java" />
+        <option value="$PROJECT_DIR$/src/exercises/java/Exercise5.java" />
       </list>
     </option>
   </component>
@@ -74,26 +76,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Exercise4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise-004" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise-005" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise-004" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise-004" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise-005" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise-004" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise-005" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -101,14 +100,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546633284423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546634205800" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -125,9 +122,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.java.Exercise4" />
-      <module name="Exercise4" />
+    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.java.Exercise5" />
+      <module name="Exercise5" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercises.java.*" />
@@ -140,7 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise4" />
+        <item itemvalue="Application.Exercise5" />
       </list>
     </recent_temporary>
   </component>
@@ -149,37 +146,37 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84ff3c5d-61ee-4806-95a1-5809f6f7cdae" name="Default Changelist" comment="" />
-      <created>1546632229671</created>
+      <changelist id="b14046cc-13bc-4879-86e2-b1166f19b94d" name="Default Changelist" comment="" />
+      <created>1546633377275</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546632229671</updated>
-      <workItem from="1546632233317" duration="1146000" />
+      <updated>1546633377275</updated>
+      <workItem from="1546633381208" duration="690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1146000" />
+    <option name="totallyTimeSpent" value="690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -206,20 +203,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise-004.md">
+    <entry file="file://$PROJECT_DIR$/exercise-005.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/java/Exercise4.java">
+    <entry file="file://$PROJECT_DIR$/src/exercises/java/Exercise5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
